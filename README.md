@@ -9,4 +9,5 @@ SONIC files for some human genome reference versions:
         Also download the reference genome at: http://hgdownload.soe.ucsc.edu/goldenPath/hg19/bigZips/chromFa.tar.gz. Deflate the tar archive and concatenate all chromosomes into a single FASTA file.
 *    GRCh38.sonic: SONIC file for the human reference genome build 38, GATK bundle version.
         Also download the reference genome at: http://hgdownload.soe.ucsc.edu/goldenPath/hg38/bigZips/hg38.chromFa.tar.gz. Deflate the tar archive and concatenate all chromosomes into a single FASTA file.
-
+*    mm10.sonic: SONIC file for the mouse reference genome build 38; equivalent to UCSC mm10. 
+	Also download the reference genome at: http://hgdownload.cse.ucsc.edu/goldenPath/mm10/bigZips/chromFa.tar.gz
