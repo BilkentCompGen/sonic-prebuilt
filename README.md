@@ -13,3 +13,5 @@ SONIC files for some human genome reference versions:
 	Also download the reference genome at: http://hgdownload.cse.ucsc.edu/goldenPath/mm9/bigZips/chromFa.tar.gz
 *    mm10.sonic: SONIC file for the mouse reference genome build 38; equivalent to UCSC mm10. 
 	Also download the reference genome at: http://hgdownload.cse.ucsc.edu/goldenPath/mm10/bigZips/chromFa.tar.gz
+*    GRCm38.sonic: SONIC file for the mouse reference genome build 38 - Sanger version.
+	Also download the reference genome at: : ftp://ftp-mouse.sanger.ac.uk/ref/GRCm38_68.fa
